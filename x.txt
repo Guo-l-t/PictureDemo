@@ -1,0 +1,7 @@
+Django
+
+1.创建项目：
+	django-admin.py startproject Gxin
+2.创建新的App:
+	python3 manage.py startapp my_app
+	在setting.py-INSTALLED_APPS中添加站点
